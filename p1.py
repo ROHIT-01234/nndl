@@ -1,3 +1,5 @@
+# Program 1: Implement a perceptron model in Python to simulate the behavior of an AND gate and OR gate. Use sigmoid activation function and a single perceptron.
+
 import numpy as np
 
 class Perceptron:
