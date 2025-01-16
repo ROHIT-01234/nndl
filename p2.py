@@ -1,3 +1,6 @@
+# Program 2: Implement a basic neural network (one or two hidden layers) in Python using libraries like TensorFlow or Keras. Use diabetes dataset, Cancer dataset 
+# and Sonar dataset. Activation functions – Sigmoid, tanh, ReLU or Softmax.
+
 import numpy as np
 import pandas as pd
 from sklearn.datasets import load_diabetes, load_breast_cancer
