@@ -1,3 +1,6 @@
+# Program 6: Use PyTorch to build and train the LeNet-5 architecture on the MNIST dataset. Define hyperparameters, train the model, test its performance, 
+# and run your code to generate classification accuracy, precision, recall, F1 scores and training/validation plots.
+
 import tensorflow as tf
 from tensorflow.keras import layers, models, datasets
 from sklearn.metrics import classification_report
