@@ -1,3 +1,6 @@
+# Program 3: Implement a stacked autoencoder using Python and popular deep learning libraries like TensorFlow or PyTorch to perform unsupervised feature learning 
+# and reconstruction tasks. Use MNIST dataset.
+
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.models import Model, Sequential
