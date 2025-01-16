@@ -1,3 +1,6 @@
+# Program 4: Implement a Convolutional Neural Network (CNN) using Python and a deep learning library (PyTorch) to classify images from the CIFAR-10 dataset. 
+# Use CIFAR-100 dataset and retrain the model.
+
 import tensorflow as tf
 import matplotlib.pyplot as plt
 from tensorflow.keras import layers, models
