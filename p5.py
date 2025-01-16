@@ -1,3 +1,7 @@
+# Program 5: Implement a language model using Long Short-Term Memory (LSTM) to predict the next word in a given sentence. Design a Python program that takes a 
+# sequence of words as input and utilizes an LSTM model to predict the most probable word that follows the given sequence. Evaluate the accuracy of your model 
+# using an appropriate dataset and provide insights on the effectiveness of LSTM for next word prediction. Use WikiText dataset.
+
 from datasets import load_dataset
 import tensorflow as tf
 from tensorflow.keras.preprocessing.text import Tokenizer
